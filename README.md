@@ -32,7 +32,7 @@
 <table width="100%">
   <tr>
     <td width="100%" align="center">
-      <a href="./RESUMO_GABARITOS.md">
+      <a href="./docs/fluxograma-estudo.md">
         <img src="https://img.shields.io/badge/Acessar_Fluxograma_de_estudo-➔-0d1117?style=for-the-badge&logo=readthedocs&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Ver Gabaritos">
       </a>
     </td>
