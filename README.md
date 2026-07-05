@@ -39,6 +39,16 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="100%" align="center">
+      <a href="./docs/sintaxe-SQL.md">
+        <img src="https://img.shields.io/badge/Estudar_a_Sintaxe-➔-0d1117?style=for-the-badge&logo=readthedocs&logoColor=39d353&labelColor=0d1117&color=39d353" alt="Estude a Sintaxe">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center"> 
