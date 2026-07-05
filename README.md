@@ -1,6 +1,6 @@
 <h1 align="center">CADERNO SQL — PROVA</h1>
 
-<i><p align="center">Mapa de leitura em ordem incremental. Use como vault: cada arquivo é um assunto, com navegação para voltar, índice e seguir.</p></i>
+<i><p align="center">Mapa de leitura em ordem incremental</p></i>
 
 ---
 
