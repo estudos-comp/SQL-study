@@ -48,16 +48,17 @@ WHERE CustomerID = 1;
 | IN | Especificar multiplas possibilidades de valor em uma coluna |
 
 ---
-
+<table width="100%">
 <tr>
 <td width="33%" align="left">
 <a href="./sintaxe-SELECT.md">
-<img src="https://img.shields.io/badge/⬅_Voltar-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353 alt="Voltar">
+<img src="https://img.shields.io/badge/⬅_Voltar-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353" alt="Voltar">
 </a>
 </td>
 <td width="33%" align="right">
 <a href="./clausula-WHERE.md">
-<img src="https://img.shields.io/badge/Seguir_➔-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353 alt="Seguir">
+<img src="https://img.shields.io/badge/Seguir_➔-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353" alt="Seguir">
 </a>
 </td>
 </tr>
+</table>
