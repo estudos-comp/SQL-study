@@ -1,6 +1,6 @@
 <h1 align="center">CADERNO SQL — PROVA</h1>
 
-<i><p align="center">Mapa de leitura em ordem incremental. Use como vault: cada arquivo é um assunto, com navegação para voltar, índice e seguir.</p></i>
+<i><p align="center">Mapa de leitura em ordem incremental</p></i>
 
 ---
 
@@ -57,7 +57,7 @@
 </a>
 </td>
 <td width="33%" align="right">
-<a href="./00-guia-de-estudo-sql.md">
+<a href="docs/00-guia-de-estudo-sql.md">
 <img src="https://img.shields.io/badge/Seguir_➔-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353" alt="Seguir">
 </a>
 </td>
